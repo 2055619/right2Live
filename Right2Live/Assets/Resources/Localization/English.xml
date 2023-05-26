@@ -1,0 +1,26 @@
+<Localization>
+	<Entry>
+		<Key>Title</Key>
+		<Value>Right 2 Live</Value>
+	</Entry>
+	<Entry>
+		<Key>PlayButton</Key>
+		<Value>Play</Value>
+	</Entry>
+	<Entry>
+		<Key>OptionsButton</Key>
+		<Value>Options</Value>
+	</Entry>
+	<Entry>
+		<Key>QuitButton</Key>
+		<Value>Quit</Value>
+	</Entry>
+	<Entry>
+		<Key>ResumeButton</Key>
+		<Value>Resume</Value>
+	</Entry>
+	<Entry>
+		<Key>PistolName</Key>
+		<Value>Pistol</Value>
+	</Entry>
+</Localization>

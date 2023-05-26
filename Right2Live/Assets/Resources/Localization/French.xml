@@ -1,0 +1,26 @@
+<Localization>
+	<Entry>
+		<Key>Title</Key>
+		<Value>Ceci est un vol</Value>
+	</Entry>
+	<Entry>
+		<Key>PlayButton</Key>
+		<Value>Jouer</Value>
+	</Entry>
+	<Entry>
+		<Key>OptionsButton</Key>
+		<Value>Paramètres</Value>
+	</Entry>
+	<Entry>
+		<Key>QuitButton</Key>
+		<Value>Quitter</Value>
+	</Entry>
+	<Entry>
+		<Key>ResumeButton</Key>
+		<Value>Continuer</Value>
+	</Entry>
+	<Entry>
+		<Key>PistolName</Key>
+		<Value>Pistolet</Value>
+	</Entry>
+</Localization>
